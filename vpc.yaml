@@ -1,6 +1,7 @@
 
 # This is a standard VPC CF script which can be spin up in any region
 # All you have to do it just to keep your required VPC CIDR and its network subnet CIRDs
+# Added 3rd VCP subnet
 
 AWSTemplateFormatVersion: '2010-09-09'
 Parameters:
